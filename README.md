@@ -18,7 +18,8 @@ __Data:__ 15-12-2018
 __Horário:__ 09:00 até 11:00
 
 __Slides:__
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwx5xnpDZO5HI1jWyQ3oag_5X5noEA7vfLgfzs7dXOjZ2zCntAVXyGs-c6Rh1g1y_6nFKRnJy8yotY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+[![slides GDG](assets/images/slidesGDGDiv.png)](https://docs.google.com/presentation/d/e/2PACX-1vRwx5xnpDZO5HI1jWyQ3oag_5X5noEA7vfLgfzs7dXOjZ2zCntAVXyGs-c6Rh1g1y_6nFKRnJy8yotY/pub?start=false&loop=false&delayms=3000)
 
 ---
 
@@ -51,8 +52,9 @@ __Data:__ 01-12-2018
 
 __Horário:__ 08:00 até 18:15
 
-__Slides:__
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgUk8f0XRLYZIQUWEOHfHaGKRUVa3V-vehBratelsdnoU7C5Vh0XRV4WiaHEsxSJvRZWNjAiiAXPZR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+__Slides:__ 
+
+[![slides Frontin Floripa](assets/images/slidesFrontinFloripa.png)](https://docs.google.com/presentation/d/e/2PACX-1vSgUk8f0XRLYZIQUWEOHfHaGKRUVa3V-vehBratelsdnoU7C5Vh0XRV4WiaHEsxSJvRZWNjAiiAXPZR/pub?start=false&loop=false&delayms=3000)
 
 ---
 
@@ -71,4 +73,5 @@ __Data:__ 19-04-2018
 __Horário:__ 19:00
 
 __Slides:__
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZJwDE65jGij4ajwLwBvnjy97wvV2GEGBs-4-cXF-l_I-Vc1pQ_x9CizN0s8kkuAZoWPc0yogjrUKc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+[![slides Trainning Center](assets/images/slidesTrainningCenter.png)](https://docs.google.com/presentation/d/e/2PACX-1vSZJwDE65jGij4ajwLwBvnjy97wvV2GEGBs-4-cXF-l_I-Vc1pQ_x9CizN0s8kkuAZoWPc0yogjrUKc/pub?start=false&loop=false&delayms=3000)
