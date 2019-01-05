@@ -85,9 +85,9 @@ __Slides:__
 
 ### 6º edição do FrontInBH - Maior evento de Front-end do Brasil.
 
-__Local:__ UEMG - Av. Paraná, 3001 - Jardim Belvedere, Divinópolis - MG, 35501-170
+__Local:__ Teatro Ney Soares - Rua Diamantina, 463 Belo Horizonte . MG
 
-__Palestra:__ Começando a trabalhar com react utilizando next.js
+__Palestra:__ A saga de um DEV - Tudo é possível
 
 __Data:__ 23-09-2017
 
