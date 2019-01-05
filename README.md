@@ -75,3 +75,52 @@ __Horário:__ 19:00
 __Slides:__
 
 [![slides Trainning Center](assets/images/slidesTrainningCenter.png)](https://docs.google.com/presentation/d/e/2PACX-1vSZJwDE65jGij4ajwLwBvnjy97wvV2GEGBs-4-cXF-l_I-Vc1pQ_x9CizN0s8kkuAZoWPc0yogjrUKc/pub?start=false&loop=false&delayms=3000)
+
+---
+
+# 2017
+
+## [Frontinbh](https://frontinbh.com.br/)
+![Frontin BH](assets/images/frontinbh.jpg)
+
+### 6º edição do FrontInBH - Maior evento de Front-end do Brasil.
+
+__Local:__ UEMG - Av. Paraná, 3001 - Jardim Belvedere, Divinópolis - MG, 35501-170
+
+__Palestra:__ Começando a trabalhar com react utilizando next.js
+
+__Data:__ 23-09-2017
+
+__Horário:__ 08:00 até 18:00
+
+![Front<in>BH](assets/images/slidesfrontinbh.jpg)
+
+---
+
+## [Nodeschool & Nodegirls](https://www.meetup.com/pt-BR/NodeBR-Minas-Gerais/events/240393518/)
+![Nodeschool & Nodegirls](assets/images/nodeschool.jpg)
+
+__Local:__ Guaja - Av. Afonso Pena 2881 · Belo Horizonte
+
+__Data:__ 10-06-2017
+
+__Horário:__ 09:00 até 18:00
+
+---
+
+## [Meetup Node JS](https://www.meetup.com/pt-BR/NodeBR-Minas-Gerais/events/239121660/)
+![Node.js](assets/images/nodejsormsequelize.jpg)
+
+### Meetup Node JS - 8ª edição
+
+__Local:__ Concrete Solutions - Av. Getúlio Vargas, 671 Sala 800 - 8º andar · Belo Horizonte
+
+__Palestra:__ Orm sequelize com bancos relacionais no ecosistema nodejs
+
+__Data:__ 18-09-2017
+
+__Horário:__ 19:00 até 22:00
+
+__Slides:__
+
+[![slides Node.js](assets/images/sequelize.jpg)](https://www.slideshare.net/wharleyornelasdaroch/orm-sequelize-com-bancos-relacionais-no-ecosistema-nodejs)
