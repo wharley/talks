@@ -1,3 +1,26 @@
+# 2019
+
+## [Connection Day](https://connectionday.tech/)
+![Connection Day](assets/images/connection.jpg)
+
+
+### Connection Day - O maior evento de tecnologia do centro-oeste mineiro
+
+[code code](https://github.com/wharley/connection-day)
+
+__Local:__ Pitágoras - Rua Santos Dumont, 1001 Bairro Manoel Valinhas, Divinópolis - MG
+
+__Palestra:__ Nextjs - A maneira mais fácil de começar um projeto em Reactjs
+
+__Data:__ 04-05-2019
+
+__Horário:__ 08:00 até 18:00
+
+__Slides:__
+
+[![slides GDG](assets/images/connectionDay.jpg)](https://docs.google.com/presentation/d/1pZFZzIrCg1--J1dMB9UZPP5BmxXyimiXCPyEariNzi4/edit?usp=sharing)
+
+---
 
 # 2018
 
@@ -52,7 +75,7 @@ __Data:__ 01-12-2018
 
 __Horário:__ 08:00 até 18:15
 
-__Slides:__ 
+__Slides:__
 
 [![slides Frontin Floripa](assets/images/slidesFrontinFloripa.png)](https://docs.google.com/presentation/d/e/2PACX-1vSgUk8f0XRLYZIQUWEOHfHaGKRUVa3V-vehBratelsdnoU7C5Vh0XRV4WiaHEsxSJvRZWNjAiiAXPZR/pub?start=false&loop=false&delayms=3000)
 
