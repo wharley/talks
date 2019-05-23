@@ -18,7 +18,7 @@ __Horário:__ 19:00 até 21:00
 
 __Slides:__
 
-[![slides FEMUG](assets/images/femug-mg.jpg)](https://docs.google.com/presentation/d/1pZFZzIrCg1--J1dMB9UZPP5BmxXyimiXCPyEariNzi4/edit?usp=sharing)
+[![slides FEMUG](assets/images/femug-mg.jpg)](https://docs.google.com/presentation/d/1kf4LTDa_pTW1zPZJCtT5Rw7LVlh8IH6dh_dM3RUm0ak/edit?usp=sharing)
 
 ---
 
