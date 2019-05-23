@@ -1,5 +1,27 @@
 # 2019
 
+## [Femug MG](https://www.meetup.com/en-AU/FEMUG-MG/events/261430900/)
+![Femug MG](assets/images/femug.jpeg)
+
+
+### Femug - 4 Femug 2019 de Minas Gerais
+
+[code code](https://github.com/wharley/femug)
+
+__Local:__ Hubble Hub - Ru da Bahia, 1600 - Centro, Belo Horizonte - MG
+
+__Palestra:__ Nuxtjs - A maneira mais fácil de criar um projeto SSR
+
+__Data:__ 22-05-2019
+
+__Horário:__ 19:00 até 21:00
+
+__Slides:__
+
+[![slides FEMUG](assets/images/femug-mg.jpg)](https://docs.google.com/presentation/d/1pZFZzIrCg1--J1dMB9UZPP5BmxXyimiXCPyEariNzi4/edit?usp=sharing)
+
+---
+
 ## [Connection Day](https://connectionday.tech/)
 ![Connection Day](assets/images/connection.jpg)
 
@@ -18,7 +40,7 @@ __Horário:__ 08:00 até 18:00
 
 __Slides:__
 
-[![slides GDG](assets/images/connectionDay.jpg)](https://docs.google.com/presentation/d/1pZFZzIrCg1--J1dMB9UZPP5BmxXyimiXCPyEariNzi4/edit?usp=sharing)
+[![slides Connection Day](assets/images/connectionDay.jpg)](https://docs.google.com/presentation/d/1pZFZzIrCg1--J1dMB9UZPP5BmxXyimiXCPyEariNzi4/edit?usp=sharing)
 
 ---
 
