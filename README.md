@@ -1,5 +1,25 @@
 # 2019
 
+## [Braziljs on the road Sorocaba](https://braziljs.org/eventos/otr-sorocaba/2019/)
+![Braziljs on the road Sorocaba](assets/images/braziljs.png)
+
+
+### Braziljs on the road Sorocaba
+
+__Local:__ Parque Tecnológico de Sorocaba - Av. Itavuvu, 11777 - Jardim Santa Cecilia, Sorocaba - SP
+
+__Palestra:__ A saga de um dev. Tudo é possível
+
+__Data:__ 15-06-2019
+
+__Horário:__ 08:20 até 18:20
+
+__Slides:__
+
+[![slides Braziljs on the road Sorocaba](assets/images/braziljsSorocaba.jpg)](https://docs.google.com/presentation/d/1z7fVjVHHhOpUMUuxjJz2tmUkZXK9hAurAwyCub2UM6Q/edit?usp=sharing)
+
+---
+
 ## [Femug MG](https://www.meetup.com/en-AU/FEMUG-MG/events/261430900/)
 ![Femug MG](assets/images/femug.jpeg)
 
