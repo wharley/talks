@@ -1,5 +1,25 @@
 # 2019
 
+## [Front In Sampa](https://www.frontinsampa.com.br/)
+![Front In Sampa](assets/images/frontinsampa.jpg)
+
+
+### Front In Sampa
+
+__Local:__ Centro de Convenções Rebouças - SP
+
+__Palestra:__ Nextjs - A maneira mais fácil de começar um projeto em Reactjs
+
+__Data:__ 13-07-2019
+
+__Horário:__ 08:00 até 18:00
+
+__Slides:__
+
+[![slides Front In Sampa](assets/images/slidesfrontinsampa.jpg)](https://docs.google.com/presentation/d/1pZFZzIrCg1--J1dMB9UZPP5BmxXyimiXCPyEariNzi4/edit#slide=id.g5d53396d74_0_323)
+
+---
+
 ## [Braziljs on the road Sorocaba](https://braziljs.org/eventos/otr-sorocaba/2019/)
 ![Braziljs on the road Sorocaba](assets/images/braziljs.png)
 
